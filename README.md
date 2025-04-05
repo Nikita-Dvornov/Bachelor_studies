@@ -1,4 +1,4 @@
-# Bachelor_studies
+# Python_studies
 
 Welcome to my repository!
 
